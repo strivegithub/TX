@@ -5,4 +5,4 @@
   * [Android客户端](https://github.com/newbreedlimited/TX/blob/master/sgreen_signed_1.2.apk?raw=true)
   
 - **iOS平台:**
-  * [iOS内测版客户端]()
+  * iOS内测版客户端
